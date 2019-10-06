@@ -13,7 +13,7 @@ public class AddingMachine {
 	}
 	
 	public void add (int value) {
-		
+		total = total + value;
 	}
 	
 	public void subtract (int value) {
@@ -21,7 +21,7 @@ public class AddingMachine {
 	}
 		
 	public String toString () {
-		return "";
+		return "0 + " + "";
 	}
 
 	public void clear() {
