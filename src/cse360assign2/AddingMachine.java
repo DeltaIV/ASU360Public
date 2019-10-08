@@ -1,4 +1,13 @@
-
+/**  
+* AddingMachine.java - Add and subtract a value
+* <p>
+* 
+* !Modified by!
+* @author  David Moller 
+* 10/5/2019
+* Class: CSE360, Friday, 2019
+* @version %I%, %G%
+*/ 
 
 package cse360assign2;
 
@@ -8,7 +17,7 @@ public class AddingMachine {
 	private String history = "0";
 	
 	public AddingMachine () {
-		total = 0;  // not needed - included for clarity
+		total = 0;
 	}
 	
 	public int getTotal () {
