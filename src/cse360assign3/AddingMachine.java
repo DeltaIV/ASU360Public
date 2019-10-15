@@ -7,7 +7,7 @@
  * @version %I%, %G%
  */ 
 
-package cse360assign2;
+package cse360assign3;
 
 /**
  * This method performs math operations on the total based on numbers passed
