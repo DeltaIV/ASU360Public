@@ -20,7 +20,7 @@ public class AddingMachine {
 	/**
 	 * This is the total
 	 */
-	protected int total;
+	protected static int total;
 	/**
 	 * This is the string to return
 	 */
