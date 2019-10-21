@@ -20,11 +20,11 @@ public class AddingMachine {
 	/**
 	 * This is the total
 	 */
-	private int total;
+	protected int total;
 	/**
 	 * This is the string to return
 	 */
-	private String history = "0";
+	protected String history = "0";
 	/**
 	   * creates a new Adding Machine.
 	   */
