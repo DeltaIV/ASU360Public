@@ -15,7 +15,7 @@ package cse360assign3;
  * @param  int value
  * @return string of the operations performed
  */
-public class AddingMachine {
+public class addingMachine {
 
 	/**
 	 * This is the total
@@ -28,7 +28,7 @@ public class AddingMachine {
 	/**
 	   * creates a new Adding Machine.
 	   */
-	public AddingMachine () {
+	public addingMachine () {
 		total = 0;
 	}
 	/**

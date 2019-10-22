@@ -4,10 +4,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class AddingMachineTest {
+class addingMachineTest {
 
-	AddingMachine test = new AddingMachine();
-	AddingMachine test2 = new AddingMachine();
+	addingMachine test = new addingMachine();
+	addingMachine test2 = new addingMachine();
 	
 	@Test
 	void testAddingMachine1() {

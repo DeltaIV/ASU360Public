@@ -14,11 +14,11 @@ package cse360assign3;
  * @param  int value
  * @return string of the operations performed
  */
-public class Calculator extends AddingMachine {
+public class calculator extends addingMachine {
 	/**
 	   * creates a new Calculator.
 	   */
-	public Calculator() {
+	public calculator() {
 		super();
 	}
 	/**
