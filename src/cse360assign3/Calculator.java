@@ -19,7 +19,7 @@ public class Calculator extends AddingMachine {
 	   * creates a new Calculator.
 	   */
 	public Calculator() {
-		
+		super();
 	}
 	/**
 	  * This multiplies the value

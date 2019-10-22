@@ -64,6 +64,6 @@ public class AddingMachine {
 	  * This clears
 	  */
 	public void clear() {
-	
+		history = "0";
 	}
 }

@@ -28,7 +28,7 @@ class CalculatorTest {
 		test.add(1);
 		test.power(3);
 		assertTrue(test.getTotal() == 27);
-		System.out.println(test.toString());
+//		System.out.println(test.toString());
 	}
 
 }
